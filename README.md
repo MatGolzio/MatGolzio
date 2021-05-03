@@ -1,9 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-My name's Matheus Golzio and I'm from Brazil.<br.
+My name's Matheus Golzio and I'm from Brazil.
 I love programming and I wanna be a computational physicist.
 
-# Technologies that I know 🙃
+### Technologies that I know 🙃
 - Python
 - HTML
 - CSS (and Boostrap framework)
@@ -13,11 +13,11 @@ I love programming and I wanna be a computational physicist.
 - SQL
 - Some of Sass
 
-# Currently Studying
+### Currently Studying
 - PHP
 - Maintaining computers remotely
 
-# Find me 😏
+### Find me 😏
 - Instagram: @matheusgolzio_
 - Reddit: MatGoll
 - Discord: Matheus Golzio#2894
