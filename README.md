@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**MatGolzio/MatGolzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's Matheus Golzio and I'm from Brazil.<br.
+I love programming and I wanna be a computational physicist.
 
-Here are some ideas to get you started:
+# Technologies that I know 🙃
+- Python
+- HTML
+- CSS (and Boostrap framework)
+- JavaScript
+- Lua
+- Dart
+- SQL
+- Some of Sass
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Currently Studying
+- PHP
+- Maintaining computers remotely
+
+# Find me 😏
+- Instagram: @matheusgolzio_
+- Reddit: MatGoll
+- Discord: Matheus Golzio#2894
