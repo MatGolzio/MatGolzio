@@ -13,7 +13,7 @@ I love programming and I wanna be a computational physicist.
 - SQL
 - Some of Sass
 
-### Currently Studying
+### Currently Studying 🧐
 - PHP
 - Maintaining computers remotely
 
