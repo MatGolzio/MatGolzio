@@ -1,3 +1,5 @@
+![Alt Text]https://giphy.com/gifs/cat-typing-E6jscXfv3AkWQ.gif
+
 # Hi there 👋
 
 My name's Matheus Golzio and I'm from Brazil.
