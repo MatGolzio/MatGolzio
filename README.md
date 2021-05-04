@@ -1,4 +1,4 @@
-![Alt Text]https://giphy.com/gifs/cat-typing-E6jscXfv3AkWQ.gif
+<img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="200" height="200" />
 
 # Hi there 👋
 
