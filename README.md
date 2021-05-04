@@ -10,10 +10,7 @@ I love programming and I wanna be a computational physicist.
 - HTML
 - CSS (and Boostrap framework)
 - JavaScript
-- Lua
-- Dart
 - SQL
-- Some of Sass
 
 ### Currently Studying 🧐
 - PHP
@@ -23,3 +20,4 @@ I love programming and I wanna be a computational physicist.
 - Instagram: @matheusgolzio_
 - Reddit: MatGoll
 - Discord: Matheus Golzio#2894
+- 99freelas: matheus_golzio09
