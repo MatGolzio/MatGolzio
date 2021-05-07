@@ -14,6 +14,7 @@ I love programming and I wanna be a computational physicist.
 
 ### Currently Studying 🧐
 - PHP
+- Django
 - Maintaining computers remotely
 
 ### Find me 😏
