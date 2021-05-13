@@ -19,7 +19,7 @@ I love programming and I wanna be a computational physicist.
 - Maintaining computers remotely
 
 ### Interest Areas <img src="https://media.giphy.com/media/26DN3lCW9rqNY1LMc/source.gif" width="40" height="40"/>
-- Web (Fgront-end and back-end)
+- Web (Front-end and back-end)
 - Desktop (Systems and automations)
 - Mobile (Apps)
 
