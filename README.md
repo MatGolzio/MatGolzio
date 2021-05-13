@@ -5,12 +5,13 @@ I love programming and I wanna be a computational physicist.
 
 <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="300" height="300" />
 
-### Technologies that I know <img src="https://media.giphy.com/media/5xaOcLO6z2g5Fq933B6/source.gif" width="40" height="40"/>
+### Knowledge <img src="https://media.giphy.com/media/5xaOcLO6z2g5Fq933B6/source.gif" width="40" height="40"/>
 - Python
 - HTML
 - CSS (and Boostrap framework)
 - JavaScript
 - SQL
+- English (Intermediate)
 
 ### Currently Studying <img src="https://media.giphy.com/media/q3kBTEbu3InMQ/source.gif" width="40" height="40"/>
 - PHP
