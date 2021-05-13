@@ -14,7 +14,14 @@ I love programming and I wanna be a computational physicist.
 
 ### Currently Studying 🧐
 - PHP
+- Dart
+- Flutter
 - Maintaining computers remotely
+
+### Interest Areas 💻
+- Web (Fgront-end and back-end)
+- Desktop (Systems and automations)
+- Mobile (Apps)
 
 ### Find me 😏
 - Instagram: @matheusgolzio_
