@@ -14,7 +14,7 @@ I love programming and I wanna be a computational physicist.
 - English (Intermediate)
 
 ### Currently Studying <img src="https://media.giphy.com/media/q3kBTEbu3InMQ/source.gif" width="40" height="40"/>
-- PHP
+- Cursing Web Programming
 - Dart
 - Flutter
 - Maintaining computers remotely
