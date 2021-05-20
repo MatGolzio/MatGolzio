@@ -15,8 +15,6 @@ I love programming and I wanna be a computational physicist.
 
 ### Currently Studying <img src="https://media.giphy.com/media/q3kBTEbu3InMQ/source.gif" width="40" height="40"/>
 - Cursing Web Programming
-- Dart
-- Flutter
 - Maintaining computers remotely
 
 ### Interest Areas <img src="https://media.giphy.com/media/26DN3lCW9rqNY1LMc/source.gif" width="40" height="40"/>
