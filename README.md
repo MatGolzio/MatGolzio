@@ -11,6 +11,7 @@ I love programming and I wanna be a computational physicist.
 - CSS (and Boostrap framework)
 - JavaScript
 - SQL
+- Dart
 - English (Intermediate)
 
 ### Currently Studying <img src="https://media.giphy.com/media/q3kBTEbu3InMQ/source.gif" width="40" height="40"/>
@@ -20,7 +21,6 @@ I love programming and I wanna be a computational physicist.
 ### Interest Areas <img src="https://media.giphy.com/media/26DN3lCW9rqNY1LMc/source.gif" width="40" height="40"/>
 - Web (Front-end and back-end)
 - Flutter
-- Dart
 - Desktop (Systems and automations)
 - Mobile (Apps)
 
