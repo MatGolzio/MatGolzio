@@ -30,5 +30,8 @@ I love programming and I wanna be a computational physicist.
 - Discord: Matheus Golzio#2894
 - 99freelas: matheus_golzio09
 
+### Contact me
+- Email: matheusgolzio09@gmail.com
+
 ### My git hub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatGolzio&show_icons=true&theme=radical)
