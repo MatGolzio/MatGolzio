@@ -25,7 +25,6 @@ I love programming and I wanna be a computational physicist.
 - Mobile (Apps)
 
 ### Find me <img src="https://media.giphy.com/media/14csGWZ28U7h6/source.gif" width="40" height="40"/>
-- Instagram: @matheusgolzio_
 - Reddit: MatGoll
 - Discord: Matheus Golzio#2894
 - 99freelas: matheus_golzio09
