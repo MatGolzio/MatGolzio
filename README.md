@@ -28,5 +28,13 @@ My name is Matheus Golzio, I'm from Brazil, and I'm a astronomy, physics and tec
 - Email: matheusgolzio09@gmail.com
 
 ### My git hub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatGolzio&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatGolzio)](https://github.com/MatGolzio/github-readme-stats)
+<table>
+  <tr>
+    <th>Main Stats</th>
+    <th>Top Languages</th>
+  </tr>
+  <tr>
+    <td>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatGolzio&show_icons=true&theme=radical)</td>
+    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatGolzio)](https://github.com/MatGolzio/github-readme-stats)</td>
+  </tr>
+</table>
