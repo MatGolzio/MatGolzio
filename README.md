@@ -11,17 +11,14 @@ I love programming and I wanna be a computational physicist.
 - CSS (and Boostrap framework)
 - JavaScript
 - SQL
-- Dart
 - English (Intermediate)
 
 ### Currently Studying <img src="https://media.giphy.com/media/q3kBTEbu3InMQ/source.gif" width="40" height="40"/>
 - Cursing Web Programming
-- Maintaining computers remotely
 
 ### Interest Areas <img src="https://media.giphy.com/media/26DN3lCW9rqNY1LMc/source.gif" width="40" height="40"/>
 - Web (Front-end and back-end)
 - Desktop (Systems and automations)
-- Mobile (Apps)
 
 ### Find me <img src="https://media.giphy.com/media/14csGWZ28U7h6/source.gif" width="40" height="40"/>
 - Reddit: MatGoll
