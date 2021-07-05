@@ -11,6 +11,7 @@ My name is Matheus Golzio, I'm from Brazil, and I'm a astronomy, physics and tec
 - JavaScript
 - SQL
 - English (Intermediate)
+- PHP
 
 ### Currently Studying <img src="https://media.giphy.com/media/q3kBTEbu3InMQ/source.gif" width="40" height="40"/>
 - Cursing Web Programming
