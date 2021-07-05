@@ -1,7 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hQWpSxpsjO40g/source.gif" width="40" height="40" />
 
-My name's Matheus Golzio and I'm from Brazil.
-I love programming and I wanna be a computational physicist.
+My name is Matheus Golzio, I'm from Brazil, and I'm a astronomy, physics and technology lover. Currently I'm cursing Web Programming.
 
 <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="300" height="300" />
 
