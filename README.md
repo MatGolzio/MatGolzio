@@ -2,8 +2,6 @@
 
 My name is Matheus Golzio, I'm from Brazil, and I'm a astronomy, physics and technology lover. Currently I'm cursing Web Programming.
 
-<img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="300" height="300" />
-
 ### Knowledge <img src="https://media.giphy.com/media/5xaOcLO6z2g5Fq933B6/source.gif" width="40" height="40"/>
 - Python
 - HTML
